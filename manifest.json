@@ -1,0 +1,9 @@
+[
+  {
+    "Config": "layer-1.json",
+    "RepoTags": ["bencord0/sh:latest"],
+    "Layers": [
+      "layer-1.tar"
+    ]
+  }
+]
